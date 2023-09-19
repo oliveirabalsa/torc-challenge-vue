@@ -1,0 +1,20 @@
+[
+  {
+    "productId": "11695143394240",
+    "productName": "Product1",
+    "productStock": 12,
+    "productCategories": ["First", "Second", "Third"]
+  },
+  {
+    "productId": "2169514339424",
+    "productName": "Product2",
+    "productStock": 14,
+    "productCategories": ["First", "Second", "Third"]
+  },
+  {
+    "productId": "3216951433942",
+    "productName": "Product3",
+    "productStock": 12,
+    "productCategories": ["First", "Second", "Third"]
+  }
+]
