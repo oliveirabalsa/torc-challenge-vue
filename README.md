@@ -44,7 +44,6 @@ torc-challenge-vue/
 ├── public/            # Static files
 │
 ├── src/               # Source code
-│   ├── assets/        # Images and assets
 │   ├── components/    # Vue components
 │   ├── data/          # Sample product data
 │   ├── App.vue        # Main Vue app component
